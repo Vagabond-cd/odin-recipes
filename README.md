@@ -1,0 +1,1 @@
+This is a practice project for The Odin Project. Using the skills I have learned from TOP I must create a simple recipe website in HTML. 
